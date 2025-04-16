@@ -17,3 +17,5 @@ Follow this instruction to properly deploy this application locally.
 For data scientists, install `jupyter lab` and work on `training.ipynb` for model training tasks and collaboration.
 
 To serve a AQI prediction server, run `python serve.py`
+
+This application depends on `parallel` package, install it with `sudo apt install parallel` for Ubuntu Server.
