@@ -18,4 +18,6 @@ For data scientists, install `jupyter lab` and work on `training.ipynb` for mode
 
 To serve a AQI prediction server, run `python serve.py`
 
+For GenAI part, please refer to `GenAI-prompt-template.md` for image generation.
+
 This application depends on `parallel` package, install it with `sudo apt install parallel` for Ubuntu Server.
